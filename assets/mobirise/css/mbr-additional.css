@@ -1603,7 +1603,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 .cid-qKusNpwtzJ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1828,7 +1828,7 @@ body {
 }
 .cid-qKusNpwtzJ .nav-link:hover,
 .cid-qKusNpwtzJ .dropdown-item:hover {
-  color: #767676 !important;
+  color: #ffffff !important;
 }
 .cid-qKi2q4tSIG {
   padding-top: 90px;
@@ -2264,6 +2264,90 @@ body {
 }
 .cid-qKdLzR4m4x .media-container-row .mbr-text {
   color: #232323;
+}
+.cid-qLCiKTLI0k {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qLCiKTLI0k .image-block {
+  margin: auto;
+}
+.cid-qLCiKTLI0k figcaption {
+  position: relative;
+}
+.cid-qLCiKTLI0k figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qLCiKTLI0k .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qLCkROvTRf {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-qLCkROvTRf .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qLCkROvTRf .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qLCkROvTRf .media-container-row .img-item .img-cont {
+  position: relative;
+  overflow: hidden;
+}
+.cid-qLCkROvTRf .media-container-row .img-item .img-cont img {
+  width: 100%;
+}
+.cid-qLCkROvTRf .media-container-row .img-item .img-cont .img-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qLCkROvTRf .media-container-row .img-item .img-cont .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qLCkROvTRf .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qLCkROvTRf .img-item {
+    width: 100% !important;
+  }
+  .cid-qLCkROvTRf .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
+.cid-qLCohL8OJF {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qLCohL8OJF .mbr-text,
+.cid-qLCohL8OJF blockquote {
+  color: #767676;
+}
+.cid-qLCohL8OJF .mbr-text B {
+  color: #232323;
+}
+.cid-qLCohL8OJF .mbr-text {
+  text-align: left;
 }
 .cid-qKdLzR4m4x {
   padding-top: 30px;
